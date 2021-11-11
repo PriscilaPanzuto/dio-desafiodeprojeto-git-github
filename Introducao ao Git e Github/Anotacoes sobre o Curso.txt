@@ -1,0 +1,6 @@
+Ótimo curso de Git/Github ministrado pelo Otávio Reis.
+Excelente professor, muito didático e minucioso.
+
+Editor MarkDown usado pelo professor foi o Typora.
+
+Link para Download: https://typora.io/
